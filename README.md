@@ -36,13 +36,13 @@ A Game Boy-style offline learning device, designed from scratch:
 
 ### From sketch to device
 
-<img src="https://github.com/user-attachments/assets/0fec8bd5-e992-4e42-97e2-ee0727cef904" alt="Exploded view" width="340"> <img src="https://github.com/user-attachments/assets/e38023c4-8856-4ce0-95d7-5ab07865e1b0" alt="Enclosure 3D model in Fusion 360" width="440">
+<img src="https://github.com/user-attachments/assets/0fec8bd5-e992-4e42-97e2-ee0727cef904" alt="Exploded view" width="310"> <img src="https://github.com/user-attachments/assets/e38023c4-8856-4ce0-95d7-5ab07865e1b0" alt="Enclosure 3D model in Fusion 360" width="440">
 
 *Exploded view · enclosure 3D model in Fusion 360*
 
-<img src="https://github.com/user-attachments/assets/73cc12c7-7cbf-4474-b666-9c26b980af34" alt="PCB render" width="340"> <img src="https://github.com/user-attachments/assets/ae1a99cc-0774-40e0-8cc8-415d0c59c8ce" alt="Assembled PCB" width="255">
+<img src="https://github.com/user-attachments/assets/73cc12c7-7cbf-4474-b666-9c26b980af34" alt="PCB render" width="340"> <img src="https://github.com/user-attachments/assets/ae1a99cc-0774-40e0-8cc8-415d0c59c8ce" alt="Manufactured PCB" width="255">
 
-*PCB render · assembled PCB*
+*PCB render · manufactured PCB*
 
 <img src="https://github.com/user-attachments/assets/b0bf1efd-ad80-4880-9139-a065b697e792" alt="Circuit schematic" width="700">
 
